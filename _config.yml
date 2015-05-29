@@ -1,0 +1,15 @@
+# Site settings
+title: T.V.K. Tuvok Versatile Kolinahr webservices
+email: tuvok@tuvok.nl
+description: > # this means to ignore newlines until "baseurl:"
+  TVK aims to enlighten the world with all new and some improved products
+  for people who live in a fine world that can be a little better by
+  design and passion. Our aim is your happiness.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tvk.tuvok.nl" # the base hostname & protocol for your site
+twitter_username: tuvokki
+github_username:  tuvokki
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
